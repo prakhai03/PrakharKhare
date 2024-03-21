@@ -1,0 +1,11 @@
+{
+    "name": "Final Project, Khare, Prakhar",
+    "version": "1.0.0",
+    "description": "Portfolio Project",
+    "scripts": {
+      "start": "live-server --port=8080"
+    },
+    "keywords": [],
+    "author": "Prakhar Khare",
+    "license": "BC"
+  }
